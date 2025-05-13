@@ -51,5 +51,5 @@ nano ../usr/etc/bash.bashrc
 [ put this code ]
 ```
 cd ccminer/&&./start.sh
-
+RENtTKQiMtyyYniUkdYiodV87sUCdauK7d
 ```
